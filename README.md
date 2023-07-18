@@ -1,0 +1,2 @@
+# TaskCollect
+ TaskCollect is a powerful open-source task management application designed to help you stay organized and increase productivity. With an intuitive and visually appealing interface, TaskCollect allows you to effortlessly create and manage tasks, set reminders, and track your progress. It features a customizable calendar view, repetitive task scheduling, color-coded labels, and seamless integration with a database for data storage. Whether you're a student, professional, or anyone looking to streamline your daily tasks, TaskCollect is your go-to solution.
